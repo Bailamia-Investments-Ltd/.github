@@ -26,5 +26,6 @@ Bailamia Investments Ltd licenses software distribution rights to authorized tec
 | Publishing Partner | Platform | Developer Account ID | Authorized Package ID | Scope |
 | :--- | :--- | :--- | :--- | :--- |
 | **GRACIE COLLECTIVE LTD** | Google Play | `6493821438111802893` | `com.sportscope.app` | JUGABET (Distribution & Publishing) |
+| **INNOVATECH BIZ ( PRIVATE ) LIMITED** | Google Play | `7337442617485399514` | `com.sporttrack.daily` | JUGABET (Distribution & Publishing) |
 
 > **Verification Notice:** For app store compliance officers and platform audit inquiries, direct validation requests may be routed to our legal desk at `lolzou@bailamia.org` or cross-referenced via our live registry at [bailamia.org/developers.html](https://bailamia.org/developers.html).
